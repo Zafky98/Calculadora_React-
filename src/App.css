@@ -1,5 +1,5 @@
 .App {
-  padding-top: 10px;
+  padding: 20px;
   background-color: #1b1b32;
   font-family: Lato, sans-serif;
   display: flex;
@@ -18,7 +18,7 @@
 }
 
 .freecodecamp-logo {
-  height: 41x;
+  height: 41px;
 }
 
 .contenedor-calculadora {
